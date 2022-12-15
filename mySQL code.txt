@@ -1,0 +1,3 @@
+create database payroll_b2;
+use payroll_b2;
+create table registration(id int primary key ,empname varchar(20), mobile varchar(20),salary double);
