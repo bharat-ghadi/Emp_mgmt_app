@@ -67,5 +67,5 @@ Here are some related projects
 - [Calculator Tkinter](https://github.com/bharat-ghadi/calculator_python)
 - [Gym management Tkinter](https://github.com/bharat-ghadi/Gym_mgmt)
 ##
-![Logo](https://github.com/bharat-ghadi/bharat-ghadi/blob/main/BHARAT%20GHADIGAONKAR%20(1).jpg)
+![Logo](https://github.com/bharat-ghadi/bharat-ghadi/blob/main/Beige%20Minimalist%20Profile%20LinkedIn%20Banner%20(1)_page-0001.jpg)
 
